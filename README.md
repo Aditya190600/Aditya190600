@@ -10,9 +10,10 @@
 - 🔭 I’m currently working on **MLOps and Deep Learning**
 - 📖 I'm currently reading **Designing Machine Learning Systems by Chip Huyen**
 
-
-[![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://theaimlessfox.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-lakshmi-narayanan)
+<p align="center">
+  <a href= "https://theaimlessfox.com/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"> </a> 
+  <a href= "https://www.linkedin.com/in/aditya-lakshmi-narayanan"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</p>
 
 <!--
 **Aditya190600/Aditya190600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
